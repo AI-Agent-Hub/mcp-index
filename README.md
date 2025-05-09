@@ -1,3 +1,7 @@
+## Pypi MCP Directory (Beta)
+
+https://pypi.org/project/mcp-directory/
+
 ## Open MCP Directory | MCP Marketplace | AI Agent Marketplace Plugin from DeepNLP
 
 The open source MCP Directory and Marketplace plugin is the index service for fetching MCP configuration.
