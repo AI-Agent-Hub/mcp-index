@@ -1,6 +1,6 @@
-## Pypi MCP Directory (Beta)
+## Pypi MCP Index (Beta)
 
-https://pypi.org/project/mcp-directory/
+https://pypi.org/project/mcp-index/
 
 ## Open MCP Directory | MCP Marketplace | AI Agent Marketplace Plugin from DeepNLP
 
